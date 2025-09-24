@@ -4,7 +4,7 @@
 
 ---
 
-## **Project Aura**
+## **Project Asura**
 
 ASURA is a high-octane experimental platform exploring **autonomous, stealth-optimized UAV swarms** with real-time **cyber-physical decision-making** in controlled environments. The goal: push the boundaries of **distributed intelligence, resilient mesh networks, and AI-guided reconnaissance**—all legally, all in your lab or simulation field.
 
