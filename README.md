@@ -58,5 +58,3 @@ Think **digital espionage, futuristic battlefield AI, and swarm cognition**, dis
 MIT – fully open-source, research-focused, and 100% legal.
 
 ---
----
-
